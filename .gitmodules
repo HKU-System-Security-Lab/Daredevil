@@ -1,0 +1,12 @@
+[submodule "eval/lib/bcc"]
+	path = eval/lib/bcc
+	url = https://github.com/iovisor/bcc.git
+[submodule "eval/lib/rocksdb"]
+	path = eval/lib/rocksdb
+	url = https://github.com/facebook/rocksdb.git
+[submodule "eval/lib/YCSB"]
+	path = eval/lib/YCSB
+	url = https://github.com/brianfrankcooper/YCSB.git
+[submodule "eval/lib/filebench"]
+	path = eval/lib/filebench
+	url = https://github.com/filebench/filebench.git
