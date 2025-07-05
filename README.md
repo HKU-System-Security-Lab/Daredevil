@@ -45,6 +45,26 @@ The layout of the source code tree is described below:
 
 Please consider citing our paper from EuroSys'25 if you use Daredevil.
 
+```latex
+@inproceedings{eurosys25-daredevil,
+author = {Li, Junzhe and Shu, Ran and Lin, Jiayi and Zhang, Qingyu and Yang, Ziyue and Zhang, Jie and Xiong, Yongqiang and Qian, Chenxiong},
+title = {Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack},
+year = {2025},
+isbn = {9798400711961},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3689031.3717482},
+doi = {10.1145/3689031.3717482},
+booktitle = {Proceedings of the Twentieth European Conference on Computer Systems},
+pages = {991–1008},
+numpages = {18},
+keywords = {Linux kernel, Solid-state drives, Storage systems},
+location = {Rotterdam, Netherlands},
+series = {EuroSys '25}
+}
+```
+
+> **NOTE**: we are currently restructuring the Daredevil source code to make it more compact for future releases. Please contact jzzzli@connect.hku.hk for any questions.
 
 ## System Setup
 
